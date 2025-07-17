@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey, I am Shivank Singh
 I'm a tech enthusiast passionate about building impactful software and exploring the power of data. My work spans across full-stack development and data science, where I love crafting clean code and intelligent solutions using modern technologies.
 
 
